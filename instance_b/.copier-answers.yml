@@ -1,4 +1,4 @@
 # Changes here will be overwritten by Copier
 _commit: v1.0.0
-_src_path: git@github.com:reitzig/reproduction-renovate-33640.git
+_src_path: https://github.com/reitzig/reproduction-renovate-33640.git
 greetee: Mend
