@@ -1,0 +1,7 @@
+greetee:
+  type: str
+  help: Whom do you greet?
+  placeholder: World
+
+# Config below:
+_subdirectory: template
